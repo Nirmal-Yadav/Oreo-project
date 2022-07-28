@@ -1,0 +1,117 @@
+.dh-main-container {
+  /* border: 2px solid red; */
+  height: 30vh;
+  width: 99.5wh;
+  background-color: #8c99e0;
+}
+.dh-header {
+  /* border: 2px solid green; */
+  display: flex;
+  flex-direction: row;
+  height: 12vh;
+  width: 99.5wh;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  align-items: center;
+}
+.dh-logo-container {
+  /* border: 2px solid blue; */
+  height: 60px;
+  width: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.dh-oreo {
+  font-size: x-large;
+  margin-left: 10px;
+}
+.dh-icon-container {
+  /* border: 2px solid blue; */
+  width: 70vh;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.dh-input-container {
+  /* border: 2px solid green; */
+  border-radius: 25px;
+  height: 3rem;
+  width: 17rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+}
+.dh-input1 {
+  height: 30px;
+  border: none;
+  outline: none;
+  font-size: medium;
+}
+.dh-setting-container {
+  /* border: 2px solid yellow; */
+  width: 50rem;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+.dh-setting-icon {
+  margin-left: 28px;
+  margin-right: 7px;
+}
+.dh-2-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.dh-2-content {
+  margin-top: 10px;
+  width: 30vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.dh-2-right-container {
+  margin-top: 10px;
+  width: 25vw;
+  display: flex;
+  flex-direction: row;
+  /* border: 2px solid orange; */
+}
+.dh-2-content-link {
+  /* border: 2px solid red; */
+  background-color: rgba(255, 255, 255, 0.3);
+  width: 20.5vw;
+  height: 50px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  border-radius: 25px;
+}
+.dh-l1 {
+  /* border: 2px solid red; */
+  width: 80px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.dh-2-oreo-name {
+  font-size: large;
+}
+.dh-2-divider {
+  font-size: x-large;
+}
+.dh-2-content {
+  /* border: 2px solid green; */
+  display: flex;
+}
+.dh-2-eDash {
+  font-weight: 600;
+  font-size: larger;
+  color: white;
+}
+.dh-2-wel {
+  font-weight: 500;
+  color: white;
+  font-size: medium;
+}

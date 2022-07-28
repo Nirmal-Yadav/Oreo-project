@@ -1,0 +1,110 @@
+[
+  {
+    "id": 0,
+    "name": "Simple Black Clock",
+    "actualPrice": 16.0,
+    "discountPrice": 13.0,
+    "detail": "randomised words even slightly believable",
+    "stock": "In Stock",
+    "image": "https://thememakker.com/templates/oreo/html/assets/images/ecommerce/1.png"
+  },
+  {
+    "id": 1,
+    "name": "Simple Black Clock",
+    "actualPrice": 12.0,
+    "discountPrice": 11.0,
+    "detail": "It is a long established will be distracted",
+    "stock": "Low Stock",
+    "image": "https://thememakker.com/templates/oreo/html/assets/images/ecommerce/15.png"
+  },
+  {
+    "id": 2,
+    "name": "Simple Black Clock",
+    "actualPrice": 23.0,
+    "discountPrice": 17.0,
+    "detail": "There passages of Lorem Ipsum available",
+    "stock": "Low Stock",
+    "image": "https://thememakker.com/templates/oreo/html/assets/images/ecommerce/13.png"
+  },
+  {
+    "id": 3,
+    "name": "Simple Black Clock",
+    "actualPrice": 16.0,
+    "discountPrice": 10.0,
+    "detail": "It is a long established fact that a distracted",
+    "stock": "Out Of Stock",
+    "image": "https://thememakker.com/templates/oreo/html/assets/images/ecommerce/4.png"
+  },
+  {
+    "id": 4,
+    "name": "Brone Lamp Glasses",
+    "actualPrice": 18.0,
+    "discountPrice": 15.0,
+    "detail": "Contrary to popular belief, simply random text",
+    "stock": "In Stock",
+    "image": "https://thememakker.com/templates/oreo/html/assets/images/ecommerce/5.png"
+  },
+  {
+    "id": 5,
+    "name": "Unero Small Bag",
+    "actualPrice": 21.0,
+    "discountPrice": 17.0,
+    "detail": "All the Lorem Ipsum generators on predefined chunks",
+    "stock": "In Stock",
+    "image": "https://thememakker.com/templates/oreo/html/assets/images/ecommerce/14.png"
+  },
+  {
+    "id": 6,
+    "name": "Unero Round Sunglass",
+    "actualPrice": 16.0,
+    "discountPrice": 10.0,
+    "detail": "established fact that a be distracted",
+    "stock": "Out Of Stock",
+    "image": "https://thememakker.com/templates/oreo/html/assets/images/ecommerce/7.png"
+  },
+  {
+    "id": 7,
+    "name": "Wood simple Clock",
+    "actualPrice": 16.0,
+    "discountPrice": 10.0,
+    "detail": "Contrary to popular belief, simply random text",
+    "stock": "In Stock",
+    "image": "https://thememakker.com/templates/oreo/html/assets/images/ecommerce/8.png"
+  },
+  {
+    "id": 8,
+    "name": "Wood Lomg TV Board",
+    "actualPrice": 16.0,
+    "discountPrice": 10.0,
+    "detail": "It is a long established fact that a distracted",
+    "stock": "Out Of Stock",
+    "image": "https://thememakker.com/templates/oreo/html/assets/images/ecommerce/9.png"
+  },
+  {
+    "id": 9,
+    "name": "Simple Black Clock",
+    "actualPrice": 16.0,
+    "discountPrice": 10.0,
+    "detail": "There passages of Lorem Ipsum available",
+    "stock": "Low Stock",
+    "image": "https://thememakker.com/templates/oreo/html/assets/images/ecommerce/10.png"
+  },
+  {
+    "id": 10,
+    "name": "Simple Black Chair V2",
+    "actualPrice": 16.0,
+    "discountPrice": 13.0,
+    "detail": "It is a long established will be distracted",
+    "stock": "Low Stock",
+    "image": "https://thememakker.com/templates/oreo/html/assets/images/ecommerce/11.png"
+  },
+  {
+    "id": 11,
+    "name": "Simple Black Clock",
+    "actualPrice": 16.0,
+    "discountPrice": 13.0,
+    "detail": "randomised words even slightly believable",
+    "stock": "In Stock",
+    "image": "https://thememakker.com/templates/oreo/html/assets/images/ecommerce/12.png"
+  }
+]

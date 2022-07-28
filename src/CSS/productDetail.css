@@ -1,0 +1,130 @@
+.pd-container {
+  /* border: 2px solid blue; */
+  /* position: absolute; */
+  min-height: 76vh;
+  /* top: 24%;
+  left: 19%; */
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-content: space-between;
+  flex-wrap: wrap;
+}
+.pd-content {
+  /* border: 2px solid red; */
+
+  width: 90%;
+  min-height: 550px;
+  display: flex;
+}
+.pd-left-container {
+  /* border: 2px solid green; */
+  width: 35%;
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+.pd-img {
+  height: 350px;
+}
+.pd-a {
+  height: 50px;
+  padding-right: 5px;
+}
+.pd-right-container {
+  width: 60%;
+  /* border: 2px solid yellow; */
+}
+.pd-product-name {
+  /* border: 2px solid green; */
+  font-size: xx-large;
+  font-weight: 500;
+  width: 300px;
+  height: 60px;
+  display: flex;
+  align-items: flex-end;
+  padding-left: 20px;
+}
+.pd-product-price {
+  /* border: 2px solid green; */
+  font-size: x-large;
+  font-weight: 450;
+  width: 300px;
+  height: 70px;
+  padding-left: 20px;
+  display: flex;
+  align-items: center;
+}
+.pd-price {
+  color: goldenrod;
+  font-weight: 600;
+  padding-left: 20px;
+}
+.pd-star-conatiner {
+  /* border: 2px solid green; */
+  width: 300px;
+  height: 30px;
+  display: flex;
+  padding-left: 20px;
+}
+.pd-review {
+  font-weight: bold;
+  padding-left: 20px;
+}
+.pd-product-info {
+  /* border: 2px solid green; */
+  padding-left: 20px;
+}
+.pd-a {
+  font-size: large;
+  font-weight: bold;
+}
+.pd-product-vote {
+  /* border: 2px solid green; */
+  width: 400px;
+  display: flex;
+  padding-left: 20px;
+}
+.pd-sizes {
+  /* border: 2px solid green; */
+  width: 300px;
+  font-size: x-large;
+  font-weight: 400;
+  height: 50px;
+  display: flex;
+  padding-left: 20px;
+  align-items: center;
+}
+.pd-size-dif {
+  padding-left: 20px;
+  font-size: larger;
+}
+.pd-icon-container {
+  /* border: 2px solid green; */
+  width: 170px;
+  display: flex;
+  height: 70px;
+  padding-left: 20px;
+  align-items: flex-end;
+  justify-content: space-between;
+}
+.pd-cart-button {
+  border-radius: 10px;
+  height: 35px;
+  width: 110px;
+  background-color: #6572b8;
+  border: none;
+  color: white;
+  font-weight: bold;
+}
+.pd-like-icon-container {
+  background-color: #6572b8;
+  border-radius: 50px;
+  height: 40px;
+  width: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

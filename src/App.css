@@ -6,6 +6,12 @@
   height: 40vmin;
   pointer-events: none;
 }
+.active {
+  color: red;
+}
+NavLink {
+  text-decoration: none;
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {

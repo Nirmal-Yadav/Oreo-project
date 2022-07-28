@@ -1,0 +1,28 @@
+.cc-info-container {
+  padding-left: 20px;
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+}
+.cc-top {
+  display: flex;
+  color: #8c99e0;
+  font-size: larger;
+  font-weight: 500;
+}
+.cc-inner {
+  color: black;
+  padding-left: 5px;
+}
+.cc-bottom {
+  color: #8c99e0;
+  font-size: large;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+}
+.cc-inner1 {
+  font-size: small;
+  padding-left: 5px;
+  color: black;
+}

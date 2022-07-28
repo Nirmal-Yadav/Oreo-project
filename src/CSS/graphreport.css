@@ -1,0 +1,61 @@
+.graph-container-pr {
+  /* border: 2px solid yellow; */
+  width: 240px;
+  position: absolute;
+  top: 0;
+}
+.ms-g1 {
+  /* border: 2px solid green; */
+  display: flex;
+  width: 200px;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+}
+.pr-report-container {
+  /* border: 2px solid red; */
+  display: flex;
+  justify-content: space-between;
+  width: 95%;
+}
+.pr-report-info {
+  /* border: 2px solid green; */
+  display: flex;
+  align-items: center;
+}
+.pr-icon-container {
+  /* border: 2px solid yellow; */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-left: 5px;
+  margin-left: 10px;
+}
+.ms-detail-bold {
+  font-weight: 650;
+  font-size: larger;
+  color: #8c99e0;
+}
+.ms-detail2-bold {
+  font-size: larger;
+  font-weight: 500;
+  margin-left: 5px;
+}
+.ms-graph-value {
+  display: flex;
+  flex-direction: column;
+  /* border: 2px solid green; */
+  height: 80px;
+  width: 200px;
+  justify-content: center;
+  padding-left: 30px;
+}
+.ms-total {
+  display: flex;
+  font-size: x-large;
+  font-weight: bold;
+}
+.ms-per {
+  display: flex;
+  align-items: center;
+}
